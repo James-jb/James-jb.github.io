@@ -1,4 +1,4 @@
-图片所有 blog-grid-3-col.html
+404
 
 1HOME 主页 index.html
 
@@ -14,7 +14,9 @@
 
 5Code notes代码笔记  contact.html
 
+========================================
+图片所有 blog-grid-3-col.html
 	1照片分类
 所有	人物	自然	视频	
 
-	
+	联系 CONTACT
