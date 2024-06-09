@@ -1,0 +1,7 @@
+15.jpg是主页背景
+
+bg-1.jpg
+是about
+
+bg-2.jpg
+是code
